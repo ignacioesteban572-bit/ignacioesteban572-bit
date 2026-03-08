@@ -47,6 +47,6 @@ Herramienta para agilizar las tareas diarias sin perder la organización.
 
 ### 📫 Conectemos
 
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/ignacio-rivera-7719a33b3/)
 - **Portafolio Web:** [tu-sitio.com](https://tu-sitio.com)
 - **Ubicación:** 🇨🇱 Región de La Araucanía, Chile.
