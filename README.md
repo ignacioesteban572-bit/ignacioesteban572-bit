@@ -41,10 +41,12 @@ Herramienta para agilizar las tareas diarias sin perder la organización.
 ### 📊 Estadísticas de GitHub
 
 ![Mis estadísticas de GitHub](
-"https://github-readme-stats.vercel.app/api?username=ignacioesteban572-bit&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=475569")
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=475569" />
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
-
+<p align="center">
+<a href="https://github.com/ignacioesteban572-bit">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ignacioesteban572-bit&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ignacioesteban572-bit&layout=compact&langs_count=8&theme=cobalt"/>
+</a>
+</p>
 ---
 
 ### 📫 Conectemos
