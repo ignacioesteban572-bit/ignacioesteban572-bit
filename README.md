@@ -47,10 +47,6 @@ Herramienta para agilizar las tareas diarias sin perder la organización.
 </a>
 </p>
 
-### 🔥 Streak Stats
-
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ignacioesteban572-bit&theme=tokyonight)
-
 ### 📫 Conectemos
 
 - **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/ignacio-rivera-7719a33b3/)
