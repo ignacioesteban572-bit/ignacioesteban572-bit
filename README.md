@@ -40,7 +40,6 @@ Herramienta para agilizar las tareas diarias sin perder la organización.
 
 ### 📊 Estadísticas de GitHub
 
-![Mis estadísticas de GitHub](
 <p align="center">
 <a href="https://github.com/ignacioesteban572-bit">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ignacioesteban572-bit&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
