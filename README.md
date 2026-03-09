@@ -29,14 +29,12 @@ Aplicación de gestión financiera personal.
 
 - **Tech:** Vue.js, LocalStorage, JavaScript Asíncrono.
 - **Reto:** Implementar una lógica de transacciones fluida y validaciones de formularios en tiempo real.
-- <img src="C:\Users\ignac\OneDrive\Imágenes\Screenshots\Captura de pantalla 2026-03-09 124343.png" alt="Wallet Digital">
 
 #### ⚡ [Gestor de Tareas](https://ignacioesteban572-bit.github.io/ABP_M5/)
 
 Herramienta para agilizar las tareas diarias sin perder la organización.
 
 - **Tech:** JavaScript Vanilla, CSS Grid.
-<img src="C:\Users\ignac\OneDrive\Imágenes\Screenshots\Captura de pantalla 2026-03-09 124526.png" alt="Gestor de Tareas PRO">
 
 ### 📊 Estadísticas de GitHub
 
