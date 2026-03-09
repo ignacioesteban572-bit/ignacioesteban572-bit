@@ -48,5 +48,5 @@ Herramienta para agilizar las tareas diarias sin perder la organización.
 ### 📫 Conectemos
 
 - **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/ignacio-rivera-7719a33b3/)
-- **Portafolio Web:** [tu-sitio.com](https://ignacioesteban572-bit.github.io/PORTAFOLIO_M8/)
+- **Portafolio Web:** [Pincha Aquí](https://ignacioesteban572-bit.github.io/PORTAFOLIO_M8/)
 - **Ubicación:** 🇨🇱 Región de La Araucanía, Chile.
