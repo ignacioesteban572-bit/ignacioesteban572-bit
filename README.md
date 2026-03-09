@@ -40,7 +40,9 @@ Herramienta para agilizar las tareas diarias sin perder la organización.
 
 ### 📊 Estadísticas de GitHub
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Mis estadísticas de GitHub]
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ignacioesteban572-bit&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=475569" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=475569" />
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
 ---
